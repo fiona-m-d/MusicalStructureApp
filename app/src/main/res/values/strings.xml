@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+
+    <string name="welcome_button">PLAY MUSIC</string>
+
+    <!-- Category name for the track list -->
+    <string name="track_list">Songs</string>
+
+    <!-- Category name for the main player -->
+    <string name="main_player">Player</string>
+
+    <!-- Text for toast on selecting the back button in the main player  -->
+    <string name="back_button_toast">Back to previous track</string>
+
+    <!-- Text for toast on selecting the play button in the main player  -->
+    <string name="play_button_toast">Music playing</string>
+
+    <!-- Text for toast on selecting the pause button in the main player  -->
+    <string name="pause_button_toast">Music paused</string>
+
+    <!-- Text for toast on selecting the skip button in the main player  -->
+    <string name="skip_button_toast">Track skipped</string>
+
+</resources>
